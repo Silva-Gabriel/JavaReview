@@ -1,1 +1,0 @@
-Onde colocamos todas as entidades do sistema, interfaces, classes tudo aqui.
