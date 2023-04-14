@@ -1,0 +1,1 @@
+Todas as funcionalidades lógicas, se precisar executar uma função específica, ela estará aqui.
